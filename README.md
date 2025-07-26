@@ -1,4 +1,4 @@
-# Automatizador de Ícones SVG
+# 🛠️ Automatizador de Ícones SVG
 
 ## A Saga de um Desenvolvedor e Seus Ícones
 
@@ -25,7 +25,7 @@ Este script foi criado para automatizar esse fluxo, garantir consistência e agi
 
 ---
 
-## Pre-requisitos
+## ✅ Pré-requisitos
 
 * **Python 3**
   Verifique com:
@@ -43,7 +43,7 @@ Este script foi criado para automatizar esse fluxo, garantir consistência e agi
 
 ---
 
-## Estrutura de Pastas Esperada
+## 📁 Estrutura de Pastas Esperada
 
 ```
 .

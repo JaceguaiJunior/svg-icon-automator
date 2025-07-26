@@ -63,7 +63,7 @@ Se sua estrutura for diferente, você pode editar os caminhos no script.
 
 ## 🚀 Como Usar
 
-1. Copie o SVG completo da área de design (ex: Figma)
+1. Copie o SVG completo da área de design (ex: Figma) IMPORTANTE: Deixe em sua área de transferência. 
 
 2. No terminal, execute:
 

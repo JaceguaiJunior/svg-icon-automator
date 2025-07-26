@@ -1,4 +1,4 @@
-# 🛠️ Automatizador de Ícones SVG
+# Automatizador de Ícones SVG
 
 ## A Saga de um Desenvolvedor e Seus Ícones
 
@@ -12,12 +12,12 @@ Nos nossos projetos, tomamos a decisão de usar ícones SVG como constantes de s
 
 Na prática, o fluxo de trabalho para adicionar um novo ícone envolvia:
 
-1. 🗂️ Encontrar a pasta `assets/svg`
-2. 📝 Criar um novo arquivo `.tsx`, como `setaBonita.tsx`
-3. 📋 Copiar o SVG do Figma e colar no novo arquivo
-4. 🧭 Navegar até `constants/icons.ts`
-5. 🔠 Escrever a linha de importação correta
-6. 🧩 Incluir no objeto `icons`
+1. Encontrar a pasta `assets/svg`
+2. Criar um novo arquivo `.tsx`, como `setaBonita.tsx`
+3. Copiar o SVG do Figma e colar no novo arquivo
+4. Navegar até `constants/icons.ts`
+5. Escrever a linha de importação correta
+6. Incluir no objeto `icons`
 
 Esse processo, repetido várias vezes, consumia tempo e facilitava erros, como duplicação de ícones com nomes diferentes.
 
@@ -25,7 +25,7 @@ Este script foi criado para automatizar esse fluxo, garantir consistência e agi
 
 ---
 
-## ✅ Pré-requisitos
+## Pre-requisitos
 
 * **Python 3**
   Verifique com:
@@ -43,7 +43,7 @@ Este script foi criado para automatizar esse fluxo, garantir consistência e agi
 
 ---
 
-## 📁 Estrutura de Pastas Esperada
+## Estrutura de Pastas Esperada
 
 ```
 .
